@@ -24,7 +24,7 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   <img width="8" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="25" alt="docker logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" height="25" alt="java logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
   <img width="8" />
@@ -32,7 +32,7 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   <img width="8" />
 
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" height="25" alt="mysql logo"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" height="25" alt="psql logo"  />
   <img width="8" />
 </div>
